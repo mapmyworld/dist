@@ -1,0 +1,36 @@
+
+.c3 {
+  margin-top: 0px !important;
+  margin-left: 0px !important;
+  margin-right: 5px !important;
+  margin-bottom: 5px !important;
+}
+
+.c3 .legend {
+  margin-left: 35px;
+}
+
+.tab {
+  display: flex;
+  white-space: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+  height: 30px;
+  margin-bottom: 0px !important;
+}
+
+.tablink {
+  background-color: inherit;
+  float: left;
+  outline: none;
+  cursor: pointer;
+  padding: 0px 14px;
+}
+
+.tablink:hover {
+  background-color: #ddd;
+}
+
+.tablink.active {
+  border-bottom: 2px solid #ddd;
+}
