@@ -8,6 +8,7 @@
 
 .c3 .legend {
   margin-left: 35px;
+  font-size: 15px;
 }
 
 .tab {
@@ -17,6 +18,8 @@
   overflow-y: hidden;
   height: 30px;
   margin-bottom: 0px !important;
+  margin-top: 10px !important;
+  margin-left: 10px !important;
 }
 
 .tablink {
